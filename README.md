@@ -7,7 +7,7 @@
 You can download the file from the following link
 [Install Ubuntu on AMD | Ubuntu](https://ubuntu.com/download/amd)
 
-​<img src="../BIST/Images/Ubuntu 22.04.png"/>
+​<img src="Images/Ubuntu 22.04.png"/>
 
 ## Setting Up the SD-Card Image 
 Use [balenaEtcher](https://etcher.balena.io/) to burn the downloaded file to the SD card
@@ -16,17 +16,17 @@ You can also refer to the official steps for burning
 
 [Setting up the SD Card Image (xilinx.com)](https://www.xilinx.com/products/som/kria/kd240-drives-starter-kit/kd240-getting-started/setting-up-the-sd-card-image.html)
 
-<img src="../BIST/Images/Program SD Card.png"/>
+<img src="Images/Program SD Card.png"/>
 
 Insert the SD card into the SD card slot of the KD240 as shown below
 
-<img src="../BIST/Images/KD240 Hardware Setting.png"/>
+<img src="Images/KD240 Hardware Setting.png"/>
 
 ## Power on KD240
 
 After powering on as shown below, open [MobaXtern](https://mobaxterm.mobatek.net/download.html) and communicate with KD240 via UART
 
-<img src="../BIST/Images/Uart communication.png"/>
+<img src="Images/Uart communication.png"/>
 
 ## Set Ubuntu environment and download Xilinx package
 ### 1. Login credentials
